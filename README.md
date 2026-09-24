@@ -20,3 +20,6 @@ Live shortcuts included:
 - Call: +971 4 338 0016
 
 For maximum reliability, you can later download the official Sealmech logo and save it as `logo.png` in the repo, then change the image src in index.html to `logo.png`.
+
+
+Client revision (Design 04): updated page heading, larger aligned Sealmech Trading LLC title, two-line approved slogan, alternate phone 050 564 1347, and sales@sealmech.com in footer.

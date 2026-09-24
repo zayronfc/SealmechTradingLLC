@@ -10,3 +10,14 @@
 /* 5 — engineering / technical drawing */
 .theme-5{background-color:#f8fbff;background-image:linear-gradient(#123b860d 1px,transparent 1px),linear-gradient(90deg,#123b860d 1px,transparent 1px);background-size:20px 20px;padding:28px 23px;border:2px solid var(--blue);color:#173254;box-shadow:0 25px 60px #123b8635}.theme-5:before{content:'SM-2003 / UAE';position:absolute;right:9px;top:9px;font:700 7px monospace;color:#123b8670}.theme-5 .eyebrow{font-family:monospace;color:var(--blue)}.theme-5 .logo-shell{width:92px;height:92px;background:#fff;border:2px solid var(--blue);border-radius:50%;outline:1px dashed var(--red);outline-offset:6px;padding:11px}.theme-5 .logo-shell img{width:68px}.theme-5 h1{font-family:monospace;color:var(--blue)}.theme-5 h2{font-family:Georgia,serif;color:#163459}.theme-5 h2 em{color:var(--red)}.theme-5 .intro{color:#5f7490}.theme-5 .action{background:#f8fbfff0;border:1px solid var(--blue);color:#17365d}.theme-5 .action i{border:1px dashed var(--blue);color:var(--blue)}.theme-5 .action.primary{background:var(--blue);color:#fff}.theme-5 .action.primary i{border-color:#fff;color:#fff}.theme-5 .review{border-color:var(--red)}.theme-5 .review i{border-color:var(--red);color:var(--red)}.theme-5 .quick-contact a,.theme-5 .trust div{background:#fff;border:1px dashed #5d7ca8;color:#284c78}.theme-5 footer{color:#60799a}.theme-5 footer a{color:var(--red)}
 @media(max-width:620px){.chooser{align-items:flex-start;flex-direction:column}.chooser nav{width:100%;overflow-x:auto;flex-wrap:nowrap;padding-bottom:2px}.chooser button{white-space:nowrap}#site{margin:18px auto 35px}.hero h2{font-size:27px}}@media(max-width:350px){#site{width:94%}.theme-1,.theme-3,.theme-4,.theme-5{padding-left:18px;padding-right:18px}.action b{font-size:12px}.quick-contact{grid-template-columns:1fr}}
+
+/* Client revisions — Design 04 */
+.quick-contact small{display:block;font-size:8px;margin-top:3px;opacity:.82}
+.theme-4 .hero{text-align:center}
+.theme-4 .eyebrow{font-size:9px;letter-spacing:1.5px}
+.theme-4 .logo-shell{margin-top:14px;margin-bottom:18px}
+.theme-4 .hero h1,.theme-4 .hero .slogan{width:100%;text-align:left}
+.theme-4 .hero h1{font-size:22px;letter-spacing:1.55px;margin:0 0 10px}
+.theme-4 .hero h1 span{font-weight:600}
+.theme-4 .hero .slogan{max-width:none;margin:0 0 22px;font-size:11.5px;line-height:1.55;color:#b7c7dc}
+.theme-4 footer a{margin-top:5px}
