@@ -1,5 +1,22 @@
-# Sealmech NFC Landing Page – 5 Concepts
+# Sealmech NFC — 5 Design Concepts
 
-Upload `index.html`, `style.css`, and `script.js` to the same GitHub repository/folder. Enable GitHub Pages. The buttons at the top switch between five completely different visual concepts while keeping the same shortcuts/features.
+Upload `index.html`, `style.css`, `script.js`, and `sealmech.vcf` to the same GitHub Pages repository.
 
-Before production, replace the placeholder `href="#..."` links in `index.html` with Sealmech's actual catalogue, contact/WhatsApp, product enquiry, digital business-card, and Google Review links.
+The page uses Sealmech's official logo directly from sealmech.com and a red/blue/white palette based on the current company logo and website identity.
+
+Design selector:
+1. Corporate
+2. Industrial
+3. Minimal
+4. Dark Premium
+5. Technical / Engineering
+
+Live shortcuts included:
+- Products: https://sealmech.com/products/
+- WhatsApp: +971 50 255 2194
+- Email: sales@sealmech.com
+- Save contact: local sealmech.vcf file
+- Google Maps search for Sealmech Trading LLC Dubai
+- Call: +971 4 338 0016
+
+For maximum reliability, you can later download the official Sealmech logo and save it as `logo.png` in the repo, then change the image src in index.html to `logo.png`.
