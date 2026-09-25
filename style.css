@@ -1,1 +1,30 @@
-*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Arial,Helvetica,sans-serif}html{background:#030b15}body{background:radial-gradient(circle at 50% 0,#102d53 0,transparent 520px),linear-gradient(160deg,#020914,#07182b);color:#fff;min-height:100vh}.stage{width:100%;min-height:100vh;padding:28px 14px 45px;display:flex;justify-content:center;align-items:flex-start}.profile{position:relative;width:100%;max-width:440px;overflow:hidden;padding:28px 22px 21px;border:1px solid #203b5d;border-radius:25px;background:linear-gradient(180deg,#0b2039 0,#07172a 100%);box-shadow:0 28px 80px #0009}.topline{position:absolute;left:0;right:0;top:0;height:3px;background:linear-gradient(90deg,#2864c0 0 70%,#d31a3b 70%)}.hero{text-align:left}.location{width:max-content;margin:0 auto 15px;padding:7px 10px;border:1px solid #28425f;border-radius:50px;color:#8ea6c4;font-size:9px;font-weight:700;letter-spacing:1.6px}.location span{display:inline-block;width:6px;height:6px;margin-right:7px;border-radius:50%;background:#ed3653}.logo{display:grid;place-items:center;width:94px;height:94px;margin:0 auto 24px;padding:10px;border-radius:22px;background:#fff;box-shadow:0 14px 35px #0008}.logo img{display:block;width:72px;height:72px;object-fit:contain}.company{margin:0 0 9px;color:#a9bed8;font-size:13px;font-weight:850;letter-spacing:2.2px}.hero h1{margin:0;font-size:25px;line-height:1.08;letter-spacing:-.65px}.hero h1 em{color:#abc2df;font-style:normal;font-weight:600}.tagline{margin:12px 0 23px;max-width:355px;color:#839ab6;font-size:9.5px;line-height:1.55}.links{display:grid;gap:10px}.link{display:grid;grid-template-columns:42px minmax(0,1fr) 24px;gap:11px;align-items:center;min-height:68px;padding:10px 12px;border:1px solid #23405f;border-radius:15px;background:#0d2744;color:#eef5ff;text-decoration:none}.link.featured{background:linear-gradient(135deg,#123b86,#1c58ac);border-color:#456fa9}.link.review{border-color:#693246}.icon{width:40px;height:40px;display:grid;place-items:center;border:1px solid #365b83;border-radius:11px;color:#b4cef0;font-size:17px}.featured .icon{border-color:#ffffff35;color:#fff;background:#ffffff0d}.review .icon{color:#ff637a;border-color:#73364a}.copy{min-width:0;display:flex;flex-direction:column;gap:4px}.copy b{font-size:13px}.copy small{color:#879ebc;font-size:9.5px}.featured .copy small{color:#c3d6ef}.arrow{font-size:22px;color:#9eb2cc;text-align:center}.contacts{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:12px}.contacts a{min-width:0;padding:12px;border:1px solid #213c5a;border-radius:13px;background:#0a2038;color:#d8e5f5;text-decoration:none}.contacts small,.contacts b,.contacts span{display:block}.contacts small{margin-bottom:6px;color:#7188a5;font-size:8px;letter-spacing:1.2px}.contacts b{overflow:hidden;font-size:9.5px;text-overflow:ellipsis;white-space:nowrap}.contacts span{margin-top:4px;color:#7087a4;font-size:8px}.trust{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:18px;padding-top:17px;border-top:1px solid #1c354f}.trust div{min-width:0}.trust i,.trust b,.trust small{display:block}.trust i{margin-bottom:6px;color:#ef4660;font-size:8px;font-style:normal;font-weight:800}.trust b{color:#b8c9de;font-size:8.5px}.trust small{margin-top:3px;color:#657c98;font-size:7.5px}footer{margin-top:22px;padding-top:17px;border-top:1px solid #172e47;text-align:center;color:#7188a5}footer>b{display:block;font-size:8.5px;letter-spacing:1.2px}footer>span{display:block;margin-top:6px;font-size:8px}footer div{margin-top:6px;font-size:8px}footer a{color:#8da8ca;text-decoration:none;font-weight:700}footer i{margin:0 6px;font-style:normal}@media(max-width:480px){.stage{padding:12px 9px 28px}.profile{padding:25px 17px 20px;border-radius:22px}.company{font-size:12px}.hero h1{font-size:24px}.tagline{font-size:9px;max-width:330px}}@media(max-width:350px){.contacts{grid-template-columns:1fr}.company{font-size:11px}.hero h1{font-size:22px}.link{grid-template-columns:39px minmax(0,1fr) 20px;padding-left:9px;padding-right:9px}.icon{width:38px;height:38px}}
+.company{
+  margin:0 0 12px;
+  color:#a9bed8;
+  font-size:18px;
+  font-weight:900;
+  letter-spacing:2.4px;
+}
+
+.hero h1{
+  margin:0;
+  font-size:22px;
+  line-height:1.12;
+  letter-spacing:-0.3px;
+  font-weight:800;
+}
+
+.hero h1 em{
+  color:#abc2df;
+  font-style:normal;
+  font-weight:600;
+  font-size:20px;
+}
+
+.tagline{
+  margin:13px 0 23px;
+  max-width:330px;
+  color:#839ab6;
+  font-size:8.5px;
+  line-height:1.55;
+}
